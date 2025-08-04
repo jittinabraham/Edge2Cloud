@@ -1,0 +1,3 @@
+[submodule "STM32-CPU-Fan-Controller-with-RPM-Monitoring"]
+	path = STM32-CPU-Fan-Controller-with-RPM-Monitoring
+	url = https://github.com/jittinabraham/STM32-CPU-Fan-Controller-with-RPM-Monitoring
